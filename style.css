@@ -1,0 +1,106 @@
+.parent-container{
+    position: fixed;
+    top: 50%;
+    left: 8px;
+    transform: translateY(-50%);
+    z-index: 10;
+    
+}
+
+.hire{
+    position: relative;
+    left: 60px;
+}
+
+.social{
+    position: relative;
+    left: 30px;
+}
+.body{
+    background-color: #1f1f1f;
+}
+
+.headerdetails{
+    position: relative;
+    left: 450px;
+    top: 20px;
+    
+}
+
+.passion{
+    color: yellowgreen;
+}
+.big-letter{
+    font-size: 1.5em;
+    letter-spacing: -0.2px;
+    line-height: 90px;
+    margin-bottom: 23px;
+    font-weight: 300;
+}
+
+
+.exp{
+    position: relative;
+    left: 450px;
+    display: flex;
+    top: 80px;
+
+
+}
+
+.statcolor{
+    color: yellowgreen;
+}
+
+.story{
+    position: relative;
+    left: 450px;
+    top: 150px;
+}
+
+.spec{
+    position: relative;
+    left: 450px;
+    top: 250px;
+}
+
+.fixed-menu {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+
+ 
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+
+  .serv{
+    background-color: yellowgreen;
+}
+  
+
+.skill{
+    position: absolute;
+    left: 450px;
+    bottom: -900px;
+    
+}
+
+.ui.statistics{
+    color: white;
+    padding: 5px;
+    
+}
+
+.bar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+
+ 
